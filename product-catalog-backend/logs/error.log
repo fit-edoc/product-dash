@@ -1,0 +1,288 @@
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:05"}
+{"level":"error","message":"Worker process 31164 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:05"}
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Worker process 31696 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Worker process 11340 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Worker process 27716 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Worker process 28504 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Worker process 31212 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Worker process 14892 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Worker process 25416 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Worker process 30364 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Worker process 23644 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Failed to connect to MongoDB: connect ECONNREFUSED ::1:27017","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Worker process 10624 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Worker process 11060 died. Code: 1, Signal: null. Spawning a replacement worker...","timestamp":"2026-06-24 19:02:06"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:31"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:32"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:32"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:32"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:32"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:32"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:32"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:32"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:32"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:32"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:32"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:32"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:33"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:34"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:34"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:34"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:34"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:34"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:34"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:34"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:34"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:34"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:34"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:34"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:35"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:36"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:36"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:36"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:36"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:36"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:36"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:36"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:36"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:36"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:36"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:36"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:37"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:38"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:38"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:38"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:38"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:38"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:38"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:38"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:38"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:38"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:38"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:38"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:39"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:40"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:40"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:40"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:40"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:40"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:40"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:40"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:40"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:40"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:40"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:40"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:42"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:44"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:46"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:48"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:50"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:52"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:54"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis reconnect attempts exhausted. Waiting 5 seconds before retrying.","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: connect ECONNREFUSED ::1:6379","timestamp":"2026-06-24 19:25:59"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:24"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:25"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:27"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:29"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:43:31"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:39"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:39"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:39"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:39"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:39"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:40"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:40"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:40"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:40"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:40"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:40"}
+{"level":"error","message":"Redis connection error: getaddrinfo ENOTFOUND direct-kodiak-133179.upstash.io","timestamp":"2026-06-24 20:58:40"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}
+{"level":"error","message":"Redis connection error: read ECONNRESET","timestamp":"2026-06-24 22:49:36"}

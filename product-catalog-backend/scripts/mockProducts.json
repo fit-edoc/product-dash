@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Classic Smartwatch",
+    "description": "This is a high-quality classic smartwatch designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 388.86,
+    "category": "Electronics",
+    "stock": 157,
+    "createdAt": "2026-06-24T14:00:09.128Z"
+  },
+  {
+    "name": "Compact Novel",
+    "description": "This is a high-quality compact novel designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 7.14,
+    "category": "Books",
+    "stock": 15,
+    "createdAt": "2026-06-24T12:27:38.223Z"
+  },
+  {
+    "name": "Ergonomic Cap",
+    "description": "This is a high-quality ergonomic cap designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 198.16,
+    "category": "Clothing",
+    "stock": 143,
+    "createdAt": "2026-06-24T02:30:17.520Z"
+  },
+  {
+    "name": "Heavy-Duty Blender",
+    "description": "This is a high-quality heavy-duty blender designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 149.97,
+    "category": "Home & Kitchen",
+    "stock": 163,
+    "createdAt": "2026-06-23T14:58:45.062Z"
+  },
+  {
+    "name": "Classic Mug",
+    "description": "This is a high-quality classic mug designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 135.42,
+    "category": "Home & Kitchen",
+    "stock": 222,
+    "createdAt": "2026-06-23T07:26:16.921Z"
+  },
+  {
+    "name": "Eco-Friendly Biography",
+    "description": "This is a high-quality eco-friendly biography designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 288.63,
+    "category": "Books",
+    "stock": 136,
+    "createdAt": "2026-06-23T07:17:37.998Z"
+  },
+  {
+    "name": "Eco-Friendly Charger",
+    "description": "This is a high-quality eco-friendly charger designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 165.55,
+    "category": "Electronics",
+    "stock": 217,
+    "createdAt": "2026-06-22T18:53:05.566Z"
+  },
+  {
+    "name": "Deluxe Hoodie",
+    "description": "This is a high-quality deluxe hoodie designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 66.02,
+    "category": "Clothing",
+    "stock": 177,
+    "createdAt": "2026-06-22T15:58:27.323Z"
+  },
+  {
+    "name": "Deluxe History Text",
+    "description": "This is a high-quality deluxe history text designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 231.61,
+    "category": "Books",
+    "stock": 152,
+    "createdAt": "2026-06-22T15:03:23.829Z"
+  },
+  {
+    "name": "Heavy-Duty Mouse",
+    "description": "This is a high-quality heavy-duty mouse designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 132.65,
+    "category": "Electronics",
+    "stock": 232,
+    "createdAt": "2026-06-22T05:19:21.912Z"
+  },
+  {
+    "name": "Classic Backpack",
+    "description": "This is a high-quality classic backpack designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 264.01,
+    "category": "Sports & Outdoors",
+    "stock": 224,
+    "createdAt": "2026-06-22T04:19:08.664Z"
+  },
+  {
+    "name": "Portable Mug",
+    "description": "This is a high-quality portable mug designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 372.06,
+    "category": "Home & Kitchen",
+    "stock": 9,
+    "createdAt": "2026-06-21T18:32:31.177Z"
+  },
+  {
+    "name": "Deluxe Tent",
+    "description": "This is a high-quality deluxe tent designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 382.31,
+    "category": "Sports & Outdoors",
+    "stock": 118,
+    "createdAt": "2026-06-21T15:39:48.888Z"
+  },
+  {
+    "name": "Smart Biography",
+    "description": "This is a high-quality smart biography designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 248,
+    "category": "Books",
+    "stock": 183,
+    "createdAt": "2026-06-21T11:13:47.608Z"
+  },
+  {
+    "name": "Smart Novel",
+    "description": "This is a high-quality smart novel designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 357.05,
+    "category": "Books",
+    "stock": 152,
+    "createdAt": "2026-06-21T08:28:05.736Z"
+  },
+  {
+    "name": "Eco-Friendly Jeans",
+    "description": "This is a high-quality eco-friendly jeans designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 404.6,
+    "category": "Clothing",
+    "stock": 204,
+    "createdAt": "2026-06-21T02:59:49.194Z"
+  },
+  {
+    "name": "Ergonomic Scale",
+    "description": "This is a high-quality ergonomic scale designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 109.83,
+    "category": "Home & Kitchen",
+    "stock": 33,
+    "createdAt": "2026-06-21T02:26:38.359Z"
+  },
+  {
+    "name": "Eco-Friendly Sneakers",
+    "description": "This is a high-quality eco-friendly sneakers designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 193.41,
+    "category": "Clothing",
+    "stock": 168,
+    "createdAt": "2026-06-20T07:22:25.966Z"
+  },
+  {
+    "name": "Compact Hoodie",
+    "description": "This is a high-quality compact hoodie designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 272.17,
+    "category": "Clothing",
+    "stock": 13,
+    "createdAt": "2026-06-18T23:23:31.246Z"
+  },
+  {
+    "name": "Ergonomic Charger",
+    "description": "This is a high-quality ergonomic charger designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 447.91,
+    "category": "Electronics",
+    "stock": 219,
+    "createdAt": "2026-06-18T05:10:57.219Z"
+  },
+  {
+    "name": "Classic Smartwatch",
+    "description": "This is a high-quality classic smartwatch designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 23.65,
+    "category": "Electronics",
+    "stock": 142,
+    "createdAt": "2026-06-18T05:09:25.597Z"
+  },
+  {
+    "name": "Deluxe Jacket",
+    "description": "This is a high-quality deluxe jacket designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 410.87,
+    "category": "Clothing",
+    "stock": 45,
+    "createdAt": "2026-06-17T22:07:11.437Z"
+  },
+  {
+    "name": "Deluxe Scale",
+    "description": "This is a high-quality deluxe scale designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 124.15,
+    "category": "Home & Kitchen",
+    "stock": 194,
+    "createdAt": "2026-06-17T20:00:48.508Z"
+  },
+  {
+    "name": "Smart T-Shirt",
+    "description": "This is a high-quality smart t-shirt designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 250.75,
+    "category": "Clothing",
+    "stock": 191,
+    "createdAt": "2026-06-17T18:33:45.721Z"
+  },
+  {
+    "name": "Wireless Tent",
+    "description": "This is a high-quality wireless tent designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 368.85,
+    "category": "Sports & Outdoors",
+    "stock": 42,
+    "createdAt": "2026-06-17T03:27:09.444Z"
+  },
+  {
+    "name": "Ergonomic Socks",
+    "description": "This is a high-quality ergonomic socks designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 344.35,
+    "category": "Clothing",
+    "stock": 91,
+    "createdAt": "2026-06-16T22:51:16.194Z"
+  },
+  {
+    "name": "Heavy-Duty Knife Set",
+    "description": "This is a high-quality heavy-duty knife set designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 449.82,
+    "category": "Home & Kitchen",
+    "stock": 148,
+    "createdAt": "2026-06-16T08:38:11.143Z"
+  },
+  {
+    "name": "Deluxe History Text",
+    "description": "This is a high-quality deluxe history text designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 456.37,
+    "category": "Books",
+    "stock": 108,
+    "createdAt": "2026-06-16T05:45:28.982Z"
+  },
+  {
+    "name": "Premium Sleeping Bag",
+    "description": "This is a high-quality premium sleeping bag designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 259.91,
+    "category": "Sports & Outdoors",
+    "stock": 79,
+    "createdAt": "2026-06-16T01:36:43.820Z"
+  },
+  {
+    "name": "Compact Novel",
+    "description": "This is a high-quality compact novel designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 14.44,
+    "category": "Books",
+    "stock": 133,
+    "createdAt": "2026-06-15T14:44:15.647Z"
+  },
+  {
+    "name": "Ergonomic Novel",
+    "description": "This is a high-quality ergonomic novel designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 154.35,
+    "category": "Books",
+    "stock": 210,
+    "createdAt": "2026-06-15T13:05:42.161Z"
+  },
+  {
+    "name": "Heavy-Duty Guidebook",
+    "description": "This is a high-quality heavy-duty guidebook designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 159.59,
+    "category": "Books",
+    "stock": 114,
+    "createdAt": "2026-06-15T06:16:11.666Z"
+  },
+  {
+    "name": "Ergonomic Cap",
+    "description": "This is a high-quality ergonomic cap designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 242.22,
+    "category": "Clothing",
+    "stock": 153,
+    "createdAt": "2026-06-14T22:57:26.836Z"
+  },
+  {
+    "name": "Compact Blender",
+    "description": "This is a high-quality compact blender designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 355.22,
+    "category": "Home & Kitchen",
+    "stock": 8,
+    "createdAt": "2026-06-14T22:38:24.736Z"
+  },
+  {
+    "name": "Premium Hoodie",
+    "description": "This is a high-quality premium hoodie designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 498.35,
+    "category": "Clothing",
+    "stock": 158,
+    "createdAt": "2026-06-14T17:12:27.153Z"
+  },
+  {
+    "name": "Portable Headphones",
+    "description": "This is a high-quality portable headphones designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 46.59,
+    "category": "Electronics",
+    "stock": 182,
+    "createdAt": "2026-06-14T13:46:20.443Z"
+  },
+  {
+    "name": "Premium Sneakers",
+    "description": "This is a high-quality premium sneakers designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 421.17,
+    "category": "Clothing",
+    "stock": 190,
+    "createdAt": "2026-06-14T12:37:08.145Z"
+  },
+  {
+    "name": "Wireless Novel",
+    "description": "This is a high-quality wireless novel designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 67.58,
+    "category": "Books",
+    "stock": 209,
+    "createdAt": "2026-06-14T08:30:27.694Z"
+  },
+  {
+    "name": "Portable Jacket",
+    "description": "This is a high-quality portable jacket designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 492.01,
+    "category": "Clothing",
+    "stock": 220,
+    "createdAt": "2026-06-14T07:28:00.667Z"
+  },
+  {
+    "name": "Heavy-Duty Sleeping Bag",
+    "description": "This is a high-quality heavy-duty sleeping bag designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 29.33,
+    "category": "Sports & Outdoors",
+    "stock": 207,
+    "createdAt": "2026-06-14T06:52:35.970Z"
+  },
+  {
+    "name": "Wireless Keyboard",
+    "description": "This is a high-quality wireless keyboard designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 61.23,
+    "category": "Electronics",
+    "stock": 83,
+    "createdAt": "2026-06-14T01:06:42.467Z"
+  },
+  {
+    "name": "Compact Jeans",
+    "description": "This is a high-quality compact jeans designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 139.01,
+    "category": "Clothing",
+    "stock": 35,
+    "createdAt": "2026-06-13T05:42:26.847Z"
+  },
+  {
+    "name": "Heavy-Duty Biography",
+    "description": "This is a high-quality heavy-duty biography designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 426.48,
+    "category": "Books",
+    "stock": 32,
+    "createdAt": "2026-06-12T22:21:16.991Z"
+  },
+  {
+    "name": "Classic Jeans",
+    "description": "This is a high-quality classic jeans designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 220.96,
+    "category": "Clothing",
+    "stock": 50,
+    "createdAt": "2026-06-12T21:58:56.083Z"
+  },
+  {
+    "name": "Portable Hoodie",
+    "description": "This is a high-quality portable hoodie designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 233.35,
+    "category": "Clothing",
+    "stock": 212,
+    "createdAt": "2026-06-12T20:05:19.878Z"
+  },
+  {
+    "name": "Classic Air Fryer",
+    "description": "This is a high-quality classic air fryer designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 423.52,
+    "category": "Home & Kitchen",
+    "stock": 42,
+    "createdAt": "2026-06-12T12:59:59.200Z"
+  },
+  {
+    "name": "Heavy-Duty Air Fryer",
+    "description": "This is a high-quality heavy-duty air fryer designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 332.42,
+    "category": "Home & Kitchen",
+    "stock": 1,
+    "createdAt": "2026-06-12T04:56:13.816Z"
+  },
+  {
+    "name": "Compact History Text",
+    "description": "This is a high-quality compact history text designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 397.16,
+    "category": "Books",
+    "stock": 214,
+    "createdAt": "2026-06-11T14:34:08.273Z"
+  },
+  {
+    "name": "Heavy-Duty Water Bottle",
+    "description": "This is a high-quality heavy-duty water bottle designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 119.59,
+    "category": "Sports & Outdoors",
+    "stock": 75,
+    "createdAt": "2026-06-11T02:59:39.509Z"
+  },
+  {
+    "name": "Wireless Guidebook",
+    "description": "This is a high-quality wireless guidebook designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 255.4,
+    "category": "Books",
+    "stock": 102,
+    "createdAt": "2026-06-11T02:19:34.456Z"
+  },
+  {
+    "name": "Heavy-Duty Charger",
+    "description": "This is a high-quality heavy-duty charger designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 482.49,
+    "category": "Electronics",
+    "stock": 89,
+    "createdAt": "2026-06-10T18:52:02.173Z"
+  },
+  {
+    "name": "Compact Hoodie",
+    "description": "This is a high-quality compact hoodie designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 51.91,
+    "category": "Clothing",
+    "stock": 69,
+    "createdAt": "2026-06-10T07:16:52.079Z"
+  },
+  {
+    "name": "Portable Dumbbells",
+    "description": "This is a high-quality portable dumbbells designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 180.5,
+    "category": "Sports & Outdoors",
+    "stock": 154,
+    "createdAt": "2026-06-10T01:00:15.122Z"
+  },
+  {
+    "name": "Smart History Text",
+    "description": "This is a high-quality smart history text designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 39.49,
+    "category": "Books",
+    "stock": 90,
+    "createdAt": "2026-06-09T09:37:16.588Z"
+  },
+  {
+    "name": "Compact Coffee Maker",
+    "description": "This is a high-quality compact coffee maker designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 78.44,
+    "category": "Home & Kitchen",
+    "stock": 240,
+    "createdAt": "2026-06-09T06:42:25.581Z"
+  },
+  {
+    "name": "Compact Dumbbells",
+    "description": "This is a high-quality compact dumbbells designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 453.67,
+    "category": "Sports & Outdoors",
+    "stock": 113,
+    "createdAt": "2026-06-08T20:56:50.338Z"
+  },
+  {
+    "name": "Ergonomic Cookbook",
+    "description": "This is a high-quality ergonomic cookbook designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 140.64,
+    "category": "Books",
+    "stock": 115,
+    "createdAt": "2026-06-08T17:12:09.825Z"
+  },
+  {
+    "name": "Premium Biography",
+    "description": "This is a high-quality premium biography designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 499.64,
+    "category": "Books",
+    "stock": 196,
+    "createdAt": "2026-06-08T16:40:42.209Z"
+  },
+  {
+    "name": "Smart Mouse",
+    "description": "This is a high-quality smart mouse designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 200.5,
+    "category": "Electronics",
+    "stock": 245,
+    "createdAt": "2026-06-08T14:56:10.507Z"
+  },
+  {
+    "name": "Classic T-Shirt",
+    "description": "This is a high-quality classic t-shirt designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 308.37,
+    "category": "Clothing",
+    "stock": 230,
+    "createdAt": "2026-06-07T22:18:44.024Z"
+  },
+  {
+    "name": "Ergonomic Scale",
+    "description": "This is a high-quality ergonomic scale designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 495.78,
+    "category": "Home & Kitchen",
+    "stock": 125,
+    "createdAt": "2026-06-07T22:01:20.577Z"
+  },
+  {
+    "name": "Portable Sneakers",
+    "description": "This is a high-quality portable sneakers designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 222.48,
+    "category": "Clothing",
+    "stock": 173,
+    "createdAt": "2026-06-07T10:34:39.361Z"
+  },
+  {
+    "name": "Smart Knife Set",
+    "description": "This is a high-quality smart knife set designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 373.18,
+    "category": "Home & Kitchen",
+    "stock": 187,
+    "createdAt": "2026-06-07T10:33:18.638Z"
+  },
+  {
+    "name": "Heavy-Duty Blender",
+    "description": "This is a high-quality heavy-duty blender designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 288.76,
+    "category": "Home & Kitchen",
+    "stock": 192,
+    "createdAt": "2026-06-07T07:32:39.811Z"
+  },
+  {
+    "name": "Wireless Cookbook",
+    "description": "This is a high-quality wireless cookbook designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 194.95,
+    "category": "Books",
+    "stock": 199,
+    "createdAt": "2026-06-06T23:27:07.731Z"
+  },
+  {
+    "name": "Ergonomic Mouse",
+    "description": "This is a high-quality ergonomic mouse designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 68.85,
+    "category": "Electronics",
+    "stock": 95,
+    "createdAt": "2026-06-06T19:32:02.133Z"
+  },
+  {
+    "name": "Deluxe Sleeping Bag",
+    "description": "This is a high-quality deluxe sleeping bag designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 35.42,
+    "category": "Sports & Outdoors",
+    "stock": 20,
+    "createdAt": "2026-06-06T09:51:02.550Z"
+  },
+  {
+    "name": "Heavy-Duty Sleeping Bag",
+    "description": "This is a high-quality heavy-duty sleeping bag designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 70.85,
+    "category": "Sports & Outdoors",
+    "stock": 219,
+    "createdAt": "2026-06-06T07:08:54.334Z"
+  },
+  {
+    "name": "Compact Headphones",
+    "description": "This is a high-quality compact headphones designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 281.64,
+    "category": "Electronics",
+    "stock": 54,
+    "createdAt": "2026-06-06T02:30:03.490Z"
+  },
+  {
+    "name": "Ergonomic Tent",
+    "description": "This is a high-quality ergonomic tent designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 49.58,
+    "category": "Sports & Outdoors",
+    "stock": 14,
+    "createdAt": "2026-06-05T08:02:24.095Z"
+  },
+  {
+    "name": "Heavy-Duty Sci-Fi Anthology",
+    "description": "This is a high-quality heavy-duty sci-fi anthology designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 378.45,
+    "category": "Books",
+    "stock": 69,
+    "createdAt": "2026-06-05T02:58:04.184Z"
+  },
+  {
+    "name": "Classic Scale",
+    "description": "This is a high-quality classic scale designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 382.33,
+    "category": "Home & Kitchen",
+    "stock": 152,
+    "createdAt": "2026-06-04T09:54:15.075Z"
+  },
+  {
+    "name": "Smart Cap",
+    "description": "This is a high-quality smart cap designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 412.02,
+    "category": "Clothing",
+    "stock": 186,
+    "createdAt": "2026-06-04T05:06:19.480Z"
+  },
+  {
+    "name": "Portable Guidebook",
+    "description": "This is a high-quality portable guidebook designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 299.83,
+    "category": "Books",
+    "stock": 129,
+    "createdAt": "2026-06-04T00:11:48.948Z"
+  },
+  {
+    "name": "Heavy-Duty Dumbbells",
+    "description": "This is a high-quality heavy-duty dumbbells designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 257.27,
+    "category": "Sports & Outdoors",
+    "stock": 151,
+    "createdAt": "2026-06-03T12:56:39.071Z"
+  },
+  {
+    "name": "Wireless Scale",
+    "description": "This is a high-quality wireless scale designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 471.9,
+    "category": "Home & Kitchen",
+    "stock": 227,
+    "createdAt": "2026-06-02T23:54:34.861Z"
+  },
+  {
+    "name": "Premium Mouse",
+    "description": "This is a high-quality premium mouse designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 221.61,
+    "category": "Electronics",
+    "stock": 208,
+    "createdAt": "2026-06-02T23:30:08.861Z"
+  },
+  {
+    "name": "Smart Cap",
+    "description": "This is a high-quality smart cap designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 273.87,
+    "category": "Clothing",
+    "stock": 102,
+    "createdAt": "2026-06-02T14:43:47.800Z"
+  },
+  {
+    "name": "Wireless Cookbook",
+    "description": "This is a high-quality wireless cookbook designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 209.14,
+    "category": "Books",
+    "stock": 119,
+    "createdAt": "2026-06-02T12:34:15.348Z"
+  },
+  {
+    "name": "Eco-Friendly Backpack",
+    "description": "This is a high-quality eco-friendly backpack designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 207.5,
+    "category": "Sports & Outdoors",
+    "stock": 67,
+    "createdAt": "2026-06-02T11:30:07.218Z"
+  },
+  {
+    "name": "Heavy-Duty Dumbbells",
+    "description": "This is a high-quality heavy-duty dumbbells designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 390.69,
+    "category": "Sports & Outdoors",
+    "stock": 243,
+    "createdAt": "2026-06-02T01:02:14.039Z"
+  },
+  {
+    "name": "Ergonomic Sci-Fi Anthology",
+    "description": "This is a high-quality ergonomic sci-fi anthology designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 256.67,
+    "category": "Books",
+    "stock": 88,
+    "createdAt": "2026-06-01T03:36:13.515Z"
+  },
+  {
+    "name": "Heavy-Duty Socks",
+    "description": "This is a high-quality heavy-duty socks designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 376.5,
+    "category": "Clothing",
+    "stock": 176,
+    "createdAt": "2026-06-01T01:36:10.140Z"
+  },
+  {
+    "name": "Compact History Text",
+    "description": "This is a high-quality compact history text designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 228.95,
+    "category": "Books",
+    "stock": 94,
+    "createdAt": "2026-05-31T20:43:45.935Z"
+  },
+  {
+    "name": "Ergonomic Hoodie",
+    "description": "This is a high-quality ergonomic hoodie designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 74.95,
+    "category": "Clothing",
+    "stock": 226,
+    "createdAt": "2026-05-31T17:14:58.786Z"
+  },
+  {
+    "name": "Portable Cap",
+    "description": "This is a high-quality portable cap designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 220.16,
+    "category": "Clothing",
+    "stock": 49,
+    "createdAt": "2026-05-31T00:46:48.298Z"
+  },
+  {
+    "name": "Heavy-Duty Headphones",
+    "description": "This is a high-quality heavy-duty headphones designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 118.28,
+    "category": "Electronics",
+    "stock": 152,
+    "createdAt": "2026-05-30T15:23:27.548Z"
+  },
+  {
+    "name": "Wireless Sci-Fi Anthology",
+    "description": "This is a high-quality wireless sci-fi anthology designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 446.03,
+    "category": "Books",
+    "stock": 19,
+    "createdAt": "2026-05-30T05:13:11.642Z"
+  },
+  {
+    "name": "Deluxe Tent",
+    "description": "This is a high-quality deluxe tent designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 113.25,
+    "category": "Sports & Outdoors",
+    "stock": 84,
+    "createdAt": "2026-05-29T22:24:14.849Z"
+  },
+  {
+    "name": "Deluxe Mug",
+    "description": "This is a high-quality deluxe mug designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 281.16,
+    "category": "Home & Kitchen",
+    "stock": 124,
+    "createdAt": "2026-05-29T20:46:18.643Z"
+  },
+  {
+    "name": "Smart Toaster",
+    "description": "This is a high-quality smart toaster designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 410.82,
+    "category": "Home & Kitchen",
+    "stock": 79,
+    "createdAt": "2026-05-28T10:34:15.134Z"
+  },
+  {
+    "name": "Smart Cookbook",
+    "description": "This is a high-quality smart cookbook designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 493.88,
+    "category": "Books",
+    "stock": 70,
+    "createdAt": "2026-05-28T10:06:49.474Z"
+  },
+  {
+    "name": "Eco-Friendly Socks",
+    "description": "This is a high-quality eco-friendly socks designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 133.12,
+    "category": "Clothing",
+    "stock": 143,
+    "createdAt": "2026-05-28T05:35:08.404Z"
+  },
+  {
+    "name": "Smart Scale",
+    "description": "This is a high-quality smart scale designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 102.43,
+    "category": "Home & Kitchen",
+    "stock": 187,
+    "createdAt": "2026-05-27T03:20:17.330Z"
+  },
+  {
+    "name": "Wireless Hoodie",
+    "description": "This is a high-quality wireless hoodie designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 75.86,
+    "category": "Clothing",
+    "stock": 73,
+    "createdAt": "2026-05-27T02:54:52.891Z"
+  },
+  {
+    "name": "Smart Air Fryer",
+    "description": "This is a high-quality smart air fryer designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 175.88,
+    "category": "Home & Kitchen",
+    "stock": 123,
+    "createdAt": "2026-05-26T21:23:49.993Z"
+  },
+  {
+    "name": "Eco-Friendly Headphones",
+    "description": "This is a high-quality eco-friendly headphones designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 85.37,
+    "category": "Electronics",
+    "stock": 220,
+    "createdAt": "2026-05-26T12:29:41.078Z"
+  },
+  {
+    "name": "Classic Scale",
+    "description": "This is a high-quality classic scale designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 177.96,
+    "category": "Home & Kitchen",
+    "stock": 65,
+    "createdAt": "2026-05-26T07:21:23.765Z"
+  },
+  {
+    "name": "Premium Novel",
+    "description": "This is a high-quality premium novel designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 110.57,
+    "category": "Books",
+    "stock": 28,
+    "createdAt": "2026-05-25T17:20:41.703Z"
+  },
+  {
+    "name": "Classic Charger",
+    "description": "This is a high-quality classic charger designed to elevate your lifestyle. It features premium durability, modern styling, and outstanding reliability.",
+    "price": 279.45,
+    "category": "Electronics",
+    "stock": 211,
+    "createdAt": "2026-05-25T16:57:26.662Z"
+  }
+]
