@@ -38,9 +38,14 @@ class ApiService {
   private baseUrl: string;
 
   constructor() {
-    this.baseUrl = typeof window !== 'undefined'
+    let url = typeof window !== 'undefined'
       ? ((window as any).__BACKEND_URL || process.env.NEXT_PUBLIC_BACKEND_URL || DEFAULT_BACKEND_URL)
       : (process.env.NEXT_PUBLIC_BACKEND_URL || DEFAULT_BACKEND_URL);
+    
+    if (url.endsWith('/')) {
+      url = url.slice(0, -1);
+    }
+    this.baseUrl = url;
   }
 
   // Get current Backend URL
