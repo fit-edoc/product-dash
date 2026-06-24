@@ -16,6 +16,19 @@ app.use(express.urlencoded({ extended: true }));
 // HTTP Request/Response logger using Winston
 app.use(loggingMiddleware);
 
+// Root & Health Check routes for cloud health checks (Railway)
+app.get('/', (req, res) => {
+  res.json({
+    status: 'success',
+    message: 'Catalog Backend API is online',
+    uptime: process.uptime()
+  });
+});
+
+app.get('/health', (req, res) => {
+  res.status(200).json({ status: 'OK' });
+});
+
 // Developer Token Route for testing auth-protected routes
 app.get('/api/auth/token', (req, res) => {
   const secret = process.env.JWT_SECRET || 'supersecretjwtsecretkey123456!';
